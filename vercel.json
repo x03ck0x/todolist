@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/*.js": {
-      "runtime": "node14" // Specify the Node.js version you want to use
-    }
-  }
-}
